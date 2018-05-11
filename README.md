@@ -12,3 +12,6 @@
 
 Dataset obtained from:
 1. Sklearn Iris dataset
+
+### To do:
+1. Test NN with MNIST dataset of handwritten digits
